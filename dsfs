@@ -10,7 +10,7 @@ local HttpService = game:GetService("HttpService")
 local AUTHORIZED_USERS = {
     ["Backdoor59k"] = "Code1",
     ["Tap_kie"] = "Code2",
-    ["ultimateGammers908"] = "Code3",
+    ["ultimateGammers907"] = "Code3",
     ["KuddaOT"] = "7daysLimite",
     ["notpixow1"] = "ilikemen"
 }
