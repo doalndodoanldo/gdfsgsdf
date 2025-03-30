@@ -12,6 +12,7 @@ local AUTHORIZED_USERS = {
     ["Tap_kie"] = "Code2",
     ["ultimateGammers907"] = "Code3",
     ["KuddaOT"] = "7daysLimite",
+    ["drexgg2020"] = "Code4",
     ["notpixow1"] = "ilikemen"
 }
 local teleportEnabled = false
